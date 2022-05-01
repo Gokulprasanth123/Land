@@ -1,0 +1,19 @@
+{
+  "name": "patta-project-srec",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@pinata/sdk": "^1.1.25",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "downloads-folder": "^3.0.3",
+    "express": "^4.18.1",
+    "mongoose": "^6.3.1"
+  }
+}
